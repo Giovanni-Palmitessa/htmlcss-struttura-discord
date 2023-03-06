@@ -81,6 +81,21 @@ nav{
     margin-inline: auto;
 }
 
+.section-4{
+    background-color: lightslategray;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+
+.green{
+    width: 1000px;
+    height: 600px;
+    background-color: green;
+    border: 2px dashed black;
+    margin-inline: auto;
+    padding: 3rem;
+}
+
 
 
 
