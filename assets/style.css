@@ -3,3 +3,31 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+nav{
+    background-color: rgb(58, 194, 248);
+    padding: 1rem;
+   
+}
+
+.row-nav{
+    display: flex;
+    max-width: 1000px;
+    margin-inline: auto;
+    
+}
+
+.gold{
+    width: 100px;
+    height: 30px;
+    background-color: gold;
+    border: 2px dashed black;
+    
+}
+
+.gold2{
+    width: 800px;
+    height: 30px;
+    background-color: gold;
+    border: 2px dashed black;
+}
