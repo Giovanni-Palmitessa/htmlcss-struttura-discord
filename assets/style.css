@@ -96,6 +96,31 @@ nav{
     padding: 3rem;
 }
 
+.row-footer-up{
+    background-color: rgb(39, 39, 39);
+    padding-top: 0.2rem;
+    padding-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid white;
+}
+
+.rosepink{
+    width: 400px;
+    height: 600px;
+    background-color: rgba(197, 142, 188, 0.932);
+    border: 2px dashed black;
+}
+
+.acquamarine{
+    width: 150px;
+    height: 600px;
+    background-color: aqua;
+    border: 2px dashed white;
+}
+
+
+
 
 
 
