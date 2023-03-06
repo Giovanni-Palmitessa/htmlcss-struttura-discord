@@ -112,12 +112,45 @@ nav{
     border: 2px dashed black;
 }
 
-.acquamarine{
+.acqua{
     width: 150px;
     height: 600px;
     background-color: aqua;
     border: 2px dashed white;
 }
+
+.row-footer-down{
+    background-color: rgb(39, 39, 39);
+    padding-top: 1.5rem;
+}
+
+.acquamarine{
+    background-color: aquamarine;
+    width: 1000px;
+    height: 50px;
+    margin-inline: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-pink{
+    width: 50px; 
+    background-color: palevioletred;  
+    text-align: center;
+    border: 2px dashed black;
+    padding: 5px;
+}
+
+.button-pink{
+    width: 60px; 
+    background-color: palevioletred;  
+    text-align: center;
+    border: 2px dashed black;
+    padding: 5px;
+}
+
+
 
 
 
