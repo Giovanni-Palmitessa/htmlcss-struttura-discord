@@ -45,4 +45,32 @@ nav{
     margin-inline: auto;
 }
 
+.container{
+    margin-inline: auto;
+    max-width: 1000px;
+}
+
+.section-1{
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    display: flex;
+    max-width: 1000px;
+}
+
+.lightblue{
+    width: 600px;
+    height: 400px;
+    background-color: rgb(1, 106, 254);
+    border: 2px dashed black;
+}
+
+.lightpink{
+    width: 400px;
+    height: 400px;
+    background-color: rgba(243, 194, 236, 0.821);
+    border: 2px dashed black;
+}
+
+
+
 
